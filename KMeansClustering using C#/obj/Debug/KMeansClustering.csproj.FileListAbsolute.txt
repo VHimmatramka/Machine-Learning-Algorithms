@@ -1,0 +1,42 @@
+F:\PRASHANT\code\test\Project File\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+F:\PRASHANT\code\test\Project File\KMeansClustering\obj\Debug\KMeansClustering.Form1.resources
+F:\PRASHANT\code\test\Project File\KMeansClustering\obj\Debug\KMeansClustering.Properties.Resources.resources
+F:\PRASHANT\code\test\Project File\KMeansClustering\obj\Debug\KMeansClustering.csproj.GenerateResource.Cache
+F:\PRASHANT\code\test\Project File\KMeansClustering\bin\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File\KMeansClustering\bin\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File\KMeansClustering\obj\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File\KMeansClustering\obj\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\obj\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\obj\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\bin\Debug\Database2.accdb
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\bin\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\bin\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\obj\Debug\KMeansClustering.Form1.resources
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\obj\Debug\KMeansClustering.Properties.Resources.resources
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\obj\Debug\KMeansClustering.csproj.GenerateResource.Cache
+F:\PRASHANT\code\test\Project File -excel\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\obj\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\obj\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\obj\Debug\KMeansClustering.Form1.resources
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\obj\Debug\KMeansClustering.Properties.Resources.resources
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\obj\Debug\KMeansClustering.csproj.GenerateResource.Cache
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\bin\Debug\Database2.accdb
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\bin\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File -10x288\KMeansClustering\bin\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\obj\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\obj\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\bin\Debug\Database2.accdb
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\bin\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\bin\Debug\KMeansClustering.pdb
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\obj\Debug\KMeansClustering.Form1.resources
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\obj\Debug\KMeansClustering.Properties.Resources.resources
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\obj\Debug\KMeansClustering.csproj.GenerateResource.Cache
+F:\PRASHANT\code\test\Project File -140x288\KMeansClustering\bin\Debug\dataset_access.accdb
+F:\PRASHANT\code\test\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+F:\PRASHANT\code\test\KMeansClustering\obj\Debug\KMeansClustering.exe
+F:\PRASHANT\code\test\KMeansClustering\obj\Debug\KMeansClustering.pdb
